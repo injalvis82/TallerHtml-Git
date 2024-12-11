@@ -5,7 +5,7 @@ background: linear-gradient(22deg, rgba(2,0,36,1) 0%, rgba(103,121,9,1) 31%, rgb
 }
 h1, h2, h3 {
     text-align: center;
-    color: #056f79;
+    color: white;
 }
 .container{
     width: 80%;
@@ -36,4 +36,17 @@ tbody thead{
    padding: 20px;
    color: #055679 ;
 
+}
+.forma{
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 30px;
+	border-radius: 20px;
+	
+}
+input[type='submit']{
+	background-color: orange;
+	color: blue;
+	cursor: pointer;
+	
 }
