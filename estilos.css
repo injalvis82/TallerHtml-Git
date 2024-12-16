@@ -35,12 +35,14 @@ img{
 
 p{
     text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }
 tbody thead{
     text-align: center;
     margin: 0 auto;
 }
-#interna{
+#interna {
    width: 80%; 
    margin: 0 auto;
    border: #ddd solid 1px;
